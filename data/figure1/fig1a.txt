@@ -1,0 +1,12 @@
+Species	Order	Group	Great_Wall	Progress	Qinling	Zhongshan	Total
+Aptenodytes_forsteri	Sphenisciformes	Penguins	NA	NA	1	10	11
+Pygoscelis_adeliae	Sphenisciformes	Penguins	3	5	6	23	37
+Pygoscelis_antarcticus	Sphenisciformes	Penguins	12	NA	NA	NA	12
+Pygoscelis_papua	Sphenisciformes	Penguins	14	NA	NA	NA	14
+Chionis_minor	Charadriiformes	Shorebirds	6	NA	NA	NA	6
+Larus_argentatus	Charadriiformes	Shorebirds	7	NA	NA	NA	7
+Stercorarius_maccormicki	Charadriiformes	Shorebirds	10	3	2	8	23
+Leucocarbo_purpurascens	Suliformes	Cormorants	3	NA	NA	NA	3
+Macronectes_giganteus	Procellariiformes	Petrels	NA	NA	NA	1	1
+Pagodroma_nivea	Procellariiformes	Petrels	2	2	NA	3	7
+Leptonychotes_weddellii	Carnivora	Seals	2	24	2	7	35

@@ -1,0 +1,9 @@
+group	family	number
+RNA_virus	Astroviridae	6
+RNA_virus	Caliciviridae	8
+RNA_virus	Coronaviridae	1
+RNA_virus	Paramyxoviridae	1
+RNA_virus	Picornaviridae	20
+RNA_virus	Sedoreoviridae	3
+DNA_virus	Adeonoviridae	4
+DNA_virus	Parvoviridae	2

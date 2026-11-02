@@ -1,0 +1,17 @@
+family	group	num
+Astroviridae	Known	NA
+Caliciviridae	Known	NA
+Coronaviridae	Known	NA
+Paramyxoviridae	Known	1
+Picornaviridae	Known	1
+Sedoreoviridae	Known	NA
+Adenoviridae	Known	NA
+Parvoviridae	Known	NA
+Astroviridae	Novel	6
+Caliciviridae	Novel	8
+Coronaviridae	Novel	1
+Paramyxoviridae	Novel	NA
+Picornaviridae	Novel	19
+Sedoreoviridae	Novel	3
+Adenoviridae	Novel	4
+Parvoviridae	Novel	2
