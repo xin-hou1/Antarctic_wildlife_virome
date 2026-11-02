@@ -1,0 +1,4 @@
+virus	station	group
+Penguin_rotavirus_1	Zhongshan	Penguins
+Penguin_rotavirus_2	Great_Wall	Penguins
+Seal_rotavirus_1	Progress	Seals
